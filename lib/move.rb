@@ -10,4 +10,5 @@ end
 
 board = []
 
-move(board) =
+def move(board)
+  
